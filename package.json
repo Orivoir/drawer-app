@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node ."
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Orivoir/drawer-app.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
